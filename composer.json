@@ -1,0 +1,19 @@
+{
+    "name": "fabiosan75/libreria4",
+    "description": "Libreria 4 Prueba Dependencia Proyectos Librerias CI/CD",
+    "type": "library",
+    "license": "propietary",
+    "autoload": {
+        "psr-4": {
+            "Fabiosan75\\Libreria4\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fabiosan75",
+            "email": "fabiosan75@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
