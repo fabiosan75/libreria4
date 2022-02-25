@@ -3,7 +3,7 @@
     "description": "Libreria 4 Prueba Dependencia Proyectos Librerias CI/CD",
     "version": "1.0.0",
     "type": "library",
-    "license": "propietary",
+    "license": "proprietary",
     "autoload": {
         "psr-4": {
             "Fabiosan75\\Libreria4\\": "src/"
