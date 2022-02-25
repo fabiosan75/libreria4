@@ -1,6 +1,7 @@
 {
     "name": "fabiosan75/libreria4",
     "description": "Libreria 4 Prueba Dependencia Proyectos Librerias CI/CD",
+    "version": "1.0.0@dev",
     "type": "library",
     "license": "propietary",
     "autoload": {
